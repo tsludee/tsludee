@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tsludee
 - 👀 I’m interested in dynamic Python capabilities, Magic the Gathering, and cooking!
 - 🌱 I’m currently learning Python and C++.
-- 💞️ I’m looking to collaborate on my portfolio!
+- 💞️ I’m looking to collaborate on my portfolio website and my Kanban board project!
 - 📫 How to reach me: email tsludee@gmail.com
 
 <!---
